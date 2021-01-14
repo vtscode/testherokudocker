@@ -1,6 +1,9 @@
 {
   "name": "testdocker",
   "version": "1.0.0",
+  "repository": {
+    "url": "https://github.com/vtscode/testherokudocker.git"
+  },
   "description": "Test nodejs app on heroku with docker",
   "main": "index.js",
   "scripts": {
